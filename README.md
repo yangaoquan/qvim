@@ -1,6 +1,6 @@
 # qvim
 
--- Pugin For Vim
+### Pugin For Vim
 
 使用该插件时请`注意`
 * 将vim目录重命名为.vim, 将vimrc文件重命名为.vimrc
