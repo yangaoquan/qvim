@@ -1,2 +1,2 @@
 # qvim
-puginin for vim
+pugin for vim
